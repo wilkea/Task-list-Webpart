@@ -1,0 +1,18 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "20.12.2",
+    "sdksVersions": {},
+    "version": "1.21.1",
+    "libraryName": "list-online",
+    "libraryId": "966ab0ce-0257-475f-856c-42af45a36852",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "list-online",
+    "solutionShortDescription": "list-online description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}
